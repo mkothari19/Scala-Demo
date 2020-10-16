@@ -42,16 +42,5 @@ class HclDemoTest extends FunSuite with BeforeAndAfter {
    
     assert(s==0)
   }
-    
-   /*test("Print 1 to 10 with space seperator") {
-     val s = HclDemo.printNumber(10," ")
-   
-    assert(s.equals("1 2 3 4 5 6 7 8 9 10"))
-  }
-    test("Not excepted result") {
-     val s = HclDemo.printNumber(10," ")
-   
-    assert(!s.equals("1 2 3 4 5 6 7 8"))*/
-  //}
   
 }
