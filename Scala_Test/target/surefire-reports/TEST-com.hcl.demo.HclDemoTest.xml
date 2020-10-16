@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="6" failures="0" name="com.hcl.demo.HclDemoTest" time="0.084" errors="0" skipped="0">
+<testsuite tests="6" failures="0" name="com.hcl.demo.HclDemoTest" time="0.075" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_77.jdk/Contents/Home/jre/lib"/>
@@ -26,7 +26,7 @@
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/Volumes/MYHARDDRIVE/Java8WorkSpace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf5470124908924956630.tmp"/>
+    <property name="classworlds.conf" value="/Volumes/MYHARDDRIVE/Java8WorkSpace/.metadata/.plugins/org.eclipse.m2e.launching/launches/m2conf4834622375372209974.tmp"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/maneeshkothari/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
@@ -62,10 +62,10 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.hcl.demo.HclDemoTest" name="Print 1 to 10 with comma seperator" time="0.077"/>
+  <testcase classname="com.hcl.demo.HclDemoTest" name="Print 1 to 10 with comma seperator" time="0.069"/>
   <testcase classname="com.hcl.demo.HclDemoTest" name="Print 1 to 10 with space seperator" time="0.001"/>
   <testcase classname="com.hcl.demo.HclDemoTest" name="Not excepted result" time="0.002"/>
   <testcase classname="com.hcl.demo.HclDemoTest" name="Calculate AOT should give 50 when base is 10 and hight is 10" time="0.002"/>
   <testcase classname="com.hcl.demo.HclDemoTest" name="Calculate AOT should not  give 50 when base is 5 and hight is 10" time="0.001"/>
-  <testcase classname="com.hcl.demo.HclDemoTest" name="Are of trangle is zero when base is 0" time="0.001"/>
+  <testcase classname="com.hcl.demo.HclDemoTest" name="Are of trangle is zero when base is 0" time="0"/>
 </testsuite>
