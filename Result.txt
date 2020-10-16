@@ -1,6 +1,12 @@
-
-
 Code that prints the numbers 1,2,3,4,5,6,7,8,9,10 
-1,2,3,4,5,6,7,8,9,10
-Code that calculates the area of a triangle 
-25.0
+ Please input number 
+
+10
+OUT PUT=1,2,3,4,5,6,7,8,9,10
+
+Input to calulate area of a triangle 
+ Please enter base and hight
+
+20
+30
+Area of a triangle=300.0
